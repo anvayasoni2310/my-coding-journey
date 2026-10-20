@@ -1,5 +1,8 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, world!");
+System.out.println("My coding journey starts today!");
+System.out.println("I am learning GitHub!");
+
     }
 }
