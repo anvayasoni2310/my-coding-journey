@@ -1,20 +1,30 @@
-
 My Coding Journey 🚀
 
-Hi! I’m a Class 10 student learning programming and exploring the world of technology.
+Hi! I’m a Class 10 student exploring programming and technology.
 
-What I’m learning
+👩🏻‍💻 What I’m Learning
 
-* Java
-* Python
+* Java programming
+* Python fundamentals
 * Git and GitHub
 * Web development
 * Artificial Intelligence
 
-My goals
+🎯 My Goals
 
-* Build practical coding projects
+* Strengthen my programming fundamentals
+* Build useful projects from scratch
 * Improve my problem-solving skills
-* Create a portfolio of my own work
+* Explore different areas of technology
+* Build a portfolio of my work
 
-This repository documents my progress as I learn, experiment, and build.
+🛠️ Projects
+
+My projects will be added here as I learn and build.
+
+🌱 My Philosophy
+
+Learn consistently, build things, make mistakes, and improve.
+
+This is the beginning of my coding journey!
+
