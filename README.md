@@ -1,30 +1,35 @@
-My Coding Journey 🚀
+Hello World in Java 👋
 
-Hi! I’m a Class 10 student exploring programming and technology.
+My first Java project, created as I begin learning programming and using GitHub.
 
-👩🏻‍💻 What I’m Learning
+📌 About the Project
 
-* Java programming
-* Python fundamentals
-* Git and GitHub
-* Web development
-* Artificial Intelligence
+This program prints three simple messages to the console:
 
-🎯 My Goals
+* Hello, world!
+* My coding journey starts today!
+* I am learning GitHub!
 
-* Strengthen my programming fundamentals
-* Build useful projects from scratch
-* Improve my problem-solving skills
-* Explore different areas of technology
-* Build a portfolio of my work
+🛠️ Technology Used
 
-🛠️ Projects
+* Language: Java
+* Code editor: OnlineGDB
+* Version control: GitHub
 
-My projects will be added here as I learn and build.
+▶️ How to Run
 
-🌱 My Philosophy
+1. Open a Java compiler such as OnlineGDB.
+2. Copy the code from HelloWorld.java.
+3. Paste it into the Java editor.
+4. Click Run to see the output.
 
-Learn consistently, build things, make mistakes, and improve.
+🎯 What I Learned
 
-This is the beginning of my coding journey!
+* Writing and running a basic Java program.
+* Printing text using System.out.println().
+* Uploading code to GitHub.
+* Making commits and tracking changes.
 
+⸻
+
+One small project at a time. This is the beginning of my coding journey!
