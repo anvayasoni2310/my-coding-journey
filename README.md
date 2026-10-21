@@ -33,3 +33,29 @@ This program prints three simple messages to the console:
 ⸻
 
 One small project at a time. This is the beginning of my coding journey!
+
+---------------
+---------------
+
+🧮 Java Calculator
+
+A beginner-friendly calculator built using Java.
+
+Features
+
+* Addition, subtraction, multiplication, and division
+* Supports decimal numbers
+* Handles division by zero
+* Allows repeated calculations
+
+Concepts Used
+
+* Java variables and data types
+* Scanner for user input
+* Switch statements
+* Do-while loops
+* Conditional statements
+
+What I Learned
+
+This project helped me practise Java programming, user input, loops, and error handling.
