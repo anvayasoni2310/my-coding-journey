@@ -1,61 +1,85 @@
-Hello World in Java 👋
+💻 My Java Learning Journey
 
-My first Java project, created as I begin learning programming and using GitHub.
+Welcome to my Java learning repository! 👋
 
-📌 About the Project
+I’m learning programming step by step, building projects, practising problem-solving, and documenting my progress using GitHub.
 
-This program prints three simple messages to the console:
+📌 About This Repository
 
-* Hello, world!
-* My coding journey starts today!
-* I am learning GitHub!
+This repository contains my beginner Java projects, from my first console program to an interactive calculator. Each project helps me practise new programming concepts and develop my coding skills.
 
-🛠️ Technology Used
+📚 Projects
 
-* Language: Java
-* Code editor: OnlineGDB
-* Version control: GitHub
+1. 👋 Hello World in Java
 
-▶️ How to Run
+My first Java project, created as I began learning programming and using GitHub.
 
-1. Open a Java compiler such as OnlineGDB.
-2. Copy the code from HelloWorld.java.
-3. Paste it into the Java editor.
+What it does
+
+* Prints three messages to the console:
+    * Hello, world!
+    * My coding journey starts today!
+    * I am learning GitHub!
+
+Concepts learned
+
+* Writing and running a Java program
+* Displaying output with System.out.println()
+* Uploading code to GitHub
+* Making commits and tracking changes
+
+How to run
+
+1. Open a Java compiler, such as OnlineGDB.
+2. Open HelloWorld.java in this repository.
+3. Copy the code into the Java editor.
 4. Click Run to see the output.
 
-🎯 What I Learned
+2. 🧮 Java Calculator
 
-* Writing and running a basic Java program.
-* Printing text using System.out.println().
-* Uploading code to GitHub.
-* Making commits and tracking changes.
-
-⸻
-
-One small project at a time. This is the beginning of my coding journey!
-
----------------
----------------
-
-🧮 Java Calculator
-
-A beginner-friendly calculator built using Java.
+A beginner-friendly calculator that performs arithmetic operations and accepts user input.
 
 Features
 
 * Addition, subtraction, multiplication, and division
-* Supports decimal numbers
-* Handles division by zero
-* Allows repeated calculations
+* Support for decimal numbers
+* Division-by-zero handling
+* Repeated calculations in one session
 
-Concepts Used
+Concepts learned
 
 * Java variables and data types
 * Scanner for user input
-* Switch statements
-* Do-while loops
-* Conditional statements
+* switch statements
+* do-while loops
+* Conditional statements and error handling
 
-What I Learned
+How to run
 
-This project helped me practise Java programming, user input, loops, and error handling.
+1. Open a Java compiler, such as OnlineGDB.
+2. Open Calculator.java in this repository.
+3. Copy the code into the Java editor.
+4. Click Run.
+5. Enter two numbers and choose an arithmetic operation.
+
+🛠️ Technologies Used
+
+* Programming language: Java
+* Code execution: OnlineGDB
+* Version control and hosting: GitHub
+
+🌱 What I’m Learning
+
+* Writing and understanding Java programs
+* Using GitHub to manage projects
+* Tracking changes with commits
+* Building practical programming projects
+* Improving logical thinking and problem-solving
+
+🎯 My Goal
+
+To keep learning, build increasingly useful projects, and grow my developer portfolio one step at a time.
+
+⸻
+
+One small project at a time. This is just the beginning of my coding journey! 🚀
